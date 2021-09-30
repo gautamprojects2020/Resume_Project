@@ -1,0 +1,20 @@
+/* font */
+.st-font{
+  font-family: 'Satisfy';
+}
+html,body{
+  height: 100%;
+}
+
+.container-fluid{
+  min-height:100%;
+}
+
+/* Services Icon Color : */
+.i-color{
+  color:#59D611;
+}
+/* Services Sub-title Color */
+.ss-color{
+  color:whitesmoke;
+}
